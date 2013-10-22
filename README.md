@@ -5,7 +5,7 @@ Template Mac OS X Automater workflow for getting data from a rest API, doing som
 
 **Author**: Richard Bakare, 2013 (richardbakare@me.com)
 
-**GitHub**: https://github.com/Grendel2501/Automator-XML-Download-Workflow/
+**GitHub**: https://github.com/Grendel2501/Automator-XML-Download-Workflow
 
 Usage:
 ------
